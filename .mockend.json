@@ -15,6 +15,7 @@
     "date": "date",
     "earnings": "int",
     "driving miles": "int",
+    "driving time": "int",
     "idle time": "int",
     "acceptance rate": "int",
     "achieve driving time": "int",
