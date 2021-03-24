@@ -11,6 +11,6 @@
     "post": "Post"
   },
   "Test": {
-    "greeting": "string"
+    "greeting": "Hello"
   }
 }
