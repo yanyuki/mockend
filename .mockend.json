@@ -10,7 +10,4 @@
     "body": "string",
     "post": "Post"
   },
-  "Test": {
-    "greeting": "hello world"
-  }
 }
