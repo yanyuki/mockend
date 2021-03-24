@@ -9,7 +9,7 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
+  },
   
   "Movies": [
     {"id": 1, "name": "The Godfather", "director":"Francis Ford Coppola", "rating": 9.1},
